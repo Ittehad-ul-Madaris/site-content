@@ -1,0 +1,104 @@
+[
+  {
+    "id": "president",
+    "name": "الشیخ مولانا محمد زبیر فہیم صاحب",
+    "designation": "پریزیڈنٹ",
+    "order": 1
+  },
+  {
+    "id": "vice-president",
+    "name": "مولانا مفتی قاضی محمد فاضل صاحب",
+    "designation": "وائس پریزیڈنٹ",
+    "order": 2
+  },
+  {
+    "id": "nazim-aala",
+    "name": "ڈاکٹر علاؤالدین سارنگ صاحب",
+    "designation": "ناظم اعلی",
+    "order": 3
+  },
+  {
+    "id": "deputy-general-secretary",
+    "name": "مولانا مفتی سیف الاسلام صاحب",
+    "designation": "ڈپٹی جنرل سیکرٹری",
+    "order": 4
+  },
+  {
+    "id": "nazim-imtehanat",
+    "name": "سید راویل تاج صاحب",
+    "designation": "ناظم امتحانات",
+    "order": 5
+  },
+  {
+    "id": "director-foreign-affairs",
+    "name": "الشیخ مولانا عمر محمد صاحب",
+    "designation": "ڈائریکٹر خارجہ امور اور بین الاقوامی تعلقات",
+    "order": 6
+  },
+  {
+    "id": "deputy-nazim-imtehanat",
+    "name": "محمد طارق خان ایڈوکیٹ صاحب",
+    "designation": "نائب ناظم امتحانات",
+    "order": 7
+  },
+  {
+    "id": "office-secretary",
+    "name": "حافظ قاری ریاض الجلیل ربانی صاحب",
+    "designation": "آفس سیکرٹری",
+    "order": 8
+  },
+  {
+    "id": "president-punjab",
+    "name": "الشیخ مولانا محمد خان اشرفی صاحب",
+    "designation": "پریزڈنٹ پنجاب",
+    "order": 9
+  },
+  {
+    "id": "masool-rawalpindi",
+    "name": "حضرت مولانا انعام الحق صاحب",
+    "designation": "مسؤل راولپنڈی",
+    "order": 10
+  },
+  {
+    "id": "nazim-aala-south-punjab",
+    "name": "مولانا محمد طارق صاحب",
+    "designation": "ناظم اعلیٰ جنوبی پنجاب",
+    "order": 11
+  },
+  {
+    "id": "nazim-aala-sindh",
+    "name": "حضرت مولانا محمد فرید حقانی صاحب",
+    "designation": "ناظم اعلی سندھ",
+    "order": 12
+  },
+  {
+    "id": "masool-quetta",
+    "name": "مولانا نظام الدین صاحب",
+    "designation": "مسؤل کوئٹہ",
+    "order": 13
+  },
+  {
+    "id": "nazim-aala-azad-kashmir",
+    "name": "قاری مولانا محمد لطیف صاحب",
+    "designation": "ناظم اعلی آزاد کشمیر",
+    "order": 14
+  },
+  {
+    "id": "masool-kotli",
+    "name": "حافظ محمد اعظم نقشبندی صاحب",
+    "designation": "مسؤل کوٹلی آزاد کشمیر",
+    "order": 15
+  },
+  {
+    "id": "coordinator-mardan",
+    "name": "مولانا مفتی قاسم علی شاہ صاحب",
+    "designation": "مرکزی کوارڈینیٹر مردان",
+    "order": 16
+  },
+  {
+    "id": "sadr-azad-kashmir",
+    "name": "مولانا مفتی محمد حنیف صاحب",
+    "designation": "صدر اتحاد المدارس آزاد کشمیر",
+    "order": 17
+  }
+]

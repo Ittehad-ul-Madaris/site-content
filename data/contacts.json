@@ -1,0 +1,96 @@
+{
+  "mainOffice": {
+    "title": "مرکزی دفتر",
+    "address": "دفتر اتحاد المدارس العربیہ پاکستان مین بازار پارہوتی، مردان، پاکستان",
+    "phones": [
+      "+92 937 560266",
+      "+92 300 5711281",
+      "+92 300 5797519",
+      "+92 311 5448111"
+    ],
+    "fax": "0937 560961",
+    "email": "ittehadulmadaris.org@gmail.com"
+  },
+  "regionalOffices": [
+    {
+      "id": "sindh-acting-nazim",
+      "name": "مولانا عبد الرحیم",
+      "designation": "عبوری ناظم اعلٰی سندھ",
+      "location": "مدرسہ تعلیم القرآن فارقیہ، اورنگی ٹاؤن، کراچی",
+      "phone": "03203828275",
+      "order": 1
+    },
+    {
+      "id": "sindh-deputy-nazim",
+      "name": "مولانا مفتی فرید حقانی",
+      "designation": "نائب ناظم اعلٰی سندھ",
+      "location": "جامعہ رحمانیہ تعلیم القرآن ، حیدرآباد",
+      "phone": "03339162891",
+      "order": 2
+    },
+    {
+      "id": "punjab-president",
+      "name": "الشیخ مولانا محمد خان اشرفی",
+      "designation": "پریزڈنٹ پنجاب",
+      "location": null,
+      "phone": "03344137533",
+      "order": 3
+    },
+    {
+      "id": "south-punjab-nazim",
+      "name": "مولانا طارق",
+      "designation": "ناظم اعلی جنوبی پنجاب",
+      "location": "مدرسہ سعد بن ابی وقاصؓ، منڈی یزمان",
+      "phone": "03013197767",
+      "order": 4
+    },
+    {
+      "id": "sahiwal-masool",
+      "name": "مولانا عزیر خلیل",
+      "designation": "مسئول ساہیوال ڈویژن",
+      "location": "جامعہ حنفیہ مدنیہ، بصیرپور، اوکاڑہ",
+      "phone": "03007987400",
+      "order": 5
+    },
+    {
+      "id": "balochistan-nazim",
+      "name": "مولانا حافظ اکرام",
+      "designation": "ناظم اعلی بلوچستان",
+      "location": null,
+      "phone": "03003936231",
+      "order": 6
+    },
+    {
+      "id": "balochistan-deputy-nazim",
+      "name": "مولانا نظام الدین",
+      "designation": "نائب ناظم اعلی بلوچستان",
+      "location": "مدرسہ تعلیم القرآن سید آباد کوئٹہ",
+      "phone": "0812665563",
+      "order": 7
+    },
+    {
+      "id": "azad-kashmir-nazim",
+      "name": "قاری عبد اللطیف",
+      "designation": "ناظم اعلٰی آزاد کشمیر",
+      "location": "مدرسہ عربیہ تحفیظ القرآن، آزاد کشمیر",
+      "phone": "03448887531",
+      "order": 8
+    },
+    {
+      "id": "azad-kashmir-deputy-nazim",
+      "name": "حافظ محمد اعظم",
+      "designation": "نائب ناظم اعلٰی آزاد کشمیر",
+      "location": "مدرسہ تعلیم القرآن، کوٹلی",
+      "phone": "03128886912",
+      "order": 9
+    },
+    {
+      "id": "azad-kashmir-sadr",
+      "name": "مولانا مفتی محمد حنیف صاحب",
+      "designation": "صدر اتحاد المدارس آزاد کشمیر",
+      "location": "مدرسہ امہات المومنین للبنین والبنات،مظفر آباد",
+      "phone": "03138802093",
+      "order": 10
+    }
+  ]
+}
