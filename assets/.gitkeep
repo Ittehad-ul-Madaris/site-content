@@ -1,0 +1,7 @@
+# Assets Folder
+
+Place images and other assets here that are referenced in posts.
+
+Images can be referenced in markdown posts using:
+- Relative paths: `/assets/image.jpg`
+- Absolute URLs: `https://example.com/image.jpg`
