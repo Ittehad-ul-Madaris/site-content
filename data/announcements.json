@@ -19,41 +19,13 @@
     "id": "ramadan-greeting",
     "enabled": true,
     "priority": 10,
-    "text": "رمضان المبارک کی مبارکباد - اللہ تعالی ہم سب کو روزوں کی توفیق عطا فرمائے",
+    "text": "رمضان مبارک - اللہ تعالی ہم سب کو روزوں کی توفیق عطا فرمائے",
     "rule": {
       "type": "hijri_range_yearly",
       "startMonth": 9,
       "startDay": 1,
       "endMonth": 9,
       "endDay": 30
-    },
-    "updatedAt": "2025-01-04"
-  },
-  {
-    "id": "eid-ul-fitr",
-    "enabled": true,
-    "priority": 10,
-    "text": "عید الفطر کی مبارکباد - تقبل اللہ منا ومنکم",
-    "rule": {
-      "type": "hijri_range_yearly",
-      "startMonth": 10,
-      "startDay": 1,
-      "endMonth": 10,
-      "endDay": 3
-    },
-    "updatedAt": "2025-01-04"
-  },
-  {
-    "id": "eid-ul-adha",
-    "enabled": true,
-    "priority": 10,
-    "text": "عید الاضحی کی مبارکباد - تقبل اللہ منا ومنکم",
-    "rule": {
-      "type": "hijri_range_yearly",
-      "startMonth": 12,
-      "startDay": 10,
-      "endMonth": 12,
-      "endDay": 13
     },
     "updatedAt": "2025-01-04"
   },
